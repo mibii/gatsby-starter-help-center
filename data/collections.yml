@@ -23,8 +23,8 @@
 #         - file: ../content/whales/index.md
 
 - id: introduction
-  title: Introduction
-  description: Brief overview of the free help center
+  title: Introductionsdfsdfsfsdfsdf
+  description: Briefdfsdfffsdfsdfsdfdsf overview of the free help center
   icon: "FaRegHandPeace"
   articles:
     - file: ../content/welcome/index.md
