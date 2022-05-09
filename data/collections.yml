@@ -23,8 +23,8 @@
 #         - file: ../content/whales/index.md
 
 - id: introduction
-  title: Introductionsdfsdfsfsdfsdf
-  description: Briefdfsdfffsdfsdfsdfdsf overview of the free help center
+  title: Изменение внес 2022
+  description: и тут тоже overview of the free help center
   icon: "FaRegHandPeace"
   articles:
     - file: ../content/welcome/index.md
