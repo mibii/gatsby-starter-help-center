@@ -2,7 +2,7 @@
 title: Changing the language
 date: 2020-01-03
 author: dferber
-description: "Ditch english for something else?"
+description: "Ditch english for something else??"
 ---
 
 The help center is made to be used in any (left-to-right) language.
